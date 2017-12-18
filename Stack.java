@@ -57,10 +57,4 @@ public class Stack implements StackInterface {
 		}
 		
 	}
-	
-	/*
-	 * Implement the other methods specified
-	 * in the interface below.
-	 */
-	
 }
